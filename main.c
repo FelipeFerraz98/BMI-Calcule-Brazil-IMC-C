@@ -48,5 +48,6 @@ int main(void) {
   printf("\nUnderweight participants: %d, average age: %.2f", underweight, underages);
   printf("\nNormal weight participants: %d, average age: %.2f", normalweight, normalages);
   printf("\nOverweight or obese participants %d, mean age: %.2f", overweight,overages);
-
+ 
+return 0;
 }
